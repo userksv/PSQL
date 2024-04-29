@@ -39,4 +39,4 @@ def right_join_where():
         print(record)
     print(desc)
 
-right_join_where()
+# right_join_where()
